@@ -1,0 +1,1 @@
+docker run -d --name redis -p 6379:6379 --restart unless-stopped 02c7f2054405
